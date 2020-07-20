@@ -1,0 +1,2 @@
+# gitAwareness
+git awareness
